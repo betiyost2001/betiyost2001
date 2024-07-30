@@ -1,4 +1,5 @@
-![Header]([[https://github.com/HeaderPerfil.jpg](https://github.com/betiyost2001/trabajoPractico2/blob/master/mi-proyecto/src/image/HeaderPerfil.jpg)))
+![Header](https://raw.githubusercontent.com/betiyost2001/trabajoPractico2/master/mi-proyecto/src/image/HeaderPerfil.jpg)
+
 
 ## ¡Hola! Soy Betina Yost 👋
 
