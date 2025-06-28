@@ -18,7 +18,7 @@ Soy una desarrolladora con experiencia en diversas tecnologías. Actualmente est
 
 ### 🚀 Proyecto Destacado
 
-🎓 **[Trabajo Final Integrador – Ingeniería de Datos](https://github.com/betiyost2001/data-engineering-tp-final)**  
+🎓 **[Trabajo Final Integrador – Ingeniería de Datos](https://github.com/betiyost2001/Curso-Data)**  
 🧊 ETL completo en Python utilizando APIs meteorológicas, procesamiento con Pandas y almacenamiento en Delta Lake (Bronze / Silver / Gold).  
 
 ---
