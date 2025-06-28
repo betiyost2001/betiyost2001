@@ -16,6 +16,13 @@ Soy una desarrolladora con experiencia en diversas tecnologías. Actualmente est
 
 ---
 
+### 🚀 Proyecto Destacado
+
+🎓 **[Trabajo Final Integrador – Ingeniería de Datos](https://github.com/betiyost2001/data-engineering-tp-final)**  
+🧊 ETL completo en Python utilizando APIs meteorológicas, procesamiento con Pandas y almacenamiento en Delta Lake (Bronze / Silver / Gold).  
+
+---
+
 ### Tecnologías y Herramientas
 
 #### Front-end
@@ -26,6 +33,11 @@ Soy una desarrolladora con experiencia en diversas tecnologías. Actualmente est
 #### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Data & ETL
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-0A7EE2?style=for-the-badge&logo=data&logoColor=white)
+![PyArrow](https://img.shields.io/badge/PyArrow-5A29E4?style=for-the-badge&logo=apache&logoColor=white)
 
 #### Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
